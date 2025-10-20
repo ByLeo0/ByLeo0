@@ -39,6 +39,8 @@
 <a href="https://www.instagram.com/leonardoql_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ByLeo0" height="30" width="40" /></a>
 <a href="https://www.facebook.com/leonardo.quispelaredo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ByLeo0" height="30" width="40" /></a>
 <a href="https://github.com/ByLeo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ByLeo0" height="30" width="40" /></a>
+<a href="felixleonardoq@gmail.com" target="blank"> <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a>
 </p>
 
 | Snake Eating Contributions in the last year |
