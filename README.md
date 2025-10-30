@@ -1,12 +1,5 @@
 <h1> Hola visitante, Soy Felix - [ByLeo] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> </h1>
 
-<p align="center">
-  
-[![GitHub Followers](https://img.shields.io/github/followers/ByLeo0?label=Follow&style=social)](https://github.com/ByLeo0)  
-[![GitHub Stars](https://img.shields.io/github/stars/ByLeo0?style=social)](https://github.com/ByLeo0)
-</p>
-
-
 ## Soy estudiante de Ingenieria de Sistemas  
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mi
